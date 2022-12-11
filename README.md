@@ -1,2 +1,2 @@
-# WeatherApp.github.io
+# WeatherApp
 Html, Bootstrap &amp; JavaScript
